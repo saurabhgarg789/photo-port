@@ -2,7 +2,7 @@
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://saurabhgarg789.github.io/photo-port",
+  "homepage": "http://brianoconner789.github.io/photo-port",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "fork-ts-checker-webpack-plugin": "^6.5.2",
